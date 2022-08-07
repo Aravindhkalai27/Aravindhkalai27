@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aravindhkalai27
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Advanced Web Development
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on work
 - 📫 How to reach me 
 
 <!---
